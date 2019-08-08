@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/atran112/jest-unit-testing/issues"
   },
-  "homepage": "https://github.com/atran112/jest-unit-testing#readme"
+  "homepage": "https://github.com/atran112/jest-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
